@@ -13,6 +13,11 @@ A Python-based data analysis project on an ABC Company dataset (458 rows × 9 co
 - analyse team distribution, employee segregation based on their positions, predominant age, highest salary and correlation
 - visualizing each analysis
 - providing insights
+- 
+# Quick Start
+- import libraries
+- upload ABC_Company.xlsx dataset to jupiter notebook
+-  Preprocessing, Analysis, visualization and insights
   
 # Data Preprocessing
 Before analysis, the dataset was cleaned and prepared to ensure consistency and integrity:
@@ -31,7 +36,9 @@ Height Correction
 - Predominant age group-piechart 
 - Highest salary expenditure-Horizontal bar plot
 - Age vs Salary correlation-Scatter plot
-  
+
+# Insights 
+Insights of each tasks are included such as distribution of employees across Teams, segregation, predominent age group, highest salary and correlation.
 # Project Structure
 ABC_Company_Employee_Analysis
 
@@ -40,11 +47,6 @@ ABC_Company_Employee_Analysis
 ├── Module2_project/
 
 ├── README.md 
-
-# Quick Start
-- import libraries
-- upload ABC_Company.xlsx dataset to jupiter notebook
--  Preprocessing, Analysis, visualization and insights
 
 # OUtputs
 - notebook/Module2_project(executed all)
