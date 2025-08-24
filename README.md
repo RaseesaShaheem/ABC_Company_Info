@@ -14,7 +14,7 @@ A Python-based data analysis project on an ABC Company dataset (458 rows × 9 co
 - visualizing each analysis
 - providing insights
 
-  # Project Structure
+# Project Structure
 ABC_Company_Employee_Analysis
 ├── ABC_Company.xlsx/ # Provided dataset (458 × 9)
 ├── Module2_project/
