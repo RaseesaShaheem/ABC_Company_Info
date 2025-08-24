@@ -16,7 +16,6 @@ A Python-based data analysis project on an ABC Company dataset (458 rows × 9 co
   
 # Data Preprocessing
 Before analysis, the dataset was cleaned and prepared to ensure consistency and integrity:
-
 Height Correction
 
 # Analysis Tasks
@@ -25,7 +24,14 @@ Height Correction
 3.  Determined predominant age group and visualization using piechart of employee age groups. 
 4.  Team and Position with Highest Salary Expenditure and visualization using horizontal bar plot showing salary expenditure across teams and positions.
 5.  Investigated whether age correlates with salary,Calculated correlation coefficient and visualization using scatter plot of Age vs Salary with a regression line to highlight trends.
-   
+
+# Graphical Representations
+- Employee distribution by team-bar plot
+- Employees by position-bar plot
+- Predominant age group-piechart 
+- Highest salary expenditure-Horizontal bar plot
+- Age vs Salary correlation-Scatter plot
+  
 # Project Structure
 ABC_Company_Employee_Analysis
 
@@ -38,7 +44,7 @@ ABC_Company_Employee_Analysis
 # Quick Start
 - import libraries
 - upload ABC_Company.xlsx dataset to jupiter notebook
-- Analysis and visualization
+-  Preprocessing, Analysis, visualization and insights
 
 # OUtputs
 - notebook/Module2_project(executed all)
